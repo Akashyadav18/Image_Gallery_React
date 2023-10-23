@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.themelight{
+    background-color: white !important;
+    color: #111;
+}
+.themedark{
+    background-color: #111;
+    color: white;
+}
